@@ -1,0 +1,38 @@
+[
+  {
+    "type": "web",
+    "label": "pathfinder",
+    "repo": "Caleydo/pathfinder",
+    "branch": "migrate",
+    "additional": [
+      {
+        "name": "pathfinder_ccle",
+        "repo": "Caleydo/pathfinder_ccle",
+        "branch": "migrate"
+      },
+      {
+        "name": "pathfinder_graph",
+        "repo": "Caleydo/pathfinder_graph",
+        "branch": "migrate"
+      }
+    ]
+  },
+  {
+    "type": "api",
+    "label": "pathfinder_server",
+    "repo": "phovea/phovea_server",
+    "branch": "develop",
+    "additional": [
+      {
+        "name": "pathfinder_ccle",
+        "repo": "Caleydo/pathfinder_ccle",
+        "branch": "migrate"
+      },
+      {
+        "name": "pathfinder_graph",
+        "repo": "Caleydo/pathfinder_graph",
+        "branch": "migrate"
+      }
+    ]
+  }
+]
