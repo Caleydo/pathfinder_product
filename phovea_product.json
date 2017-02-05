@@ -33,6 +33,12 @@
         "repo": "Caleydo/pathfinder_graph",
         "branch": "migrate"
       }
+    ],
+    "data": [
+      {
+        "type": "url",
+        "url": "ccle.h5"
+      }
     ]
   }
 ]
