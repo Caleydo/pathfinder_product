@@ -3,19 +3,7 @@
     "type": "web",
     "label": "pathfinder",
     "repo": "Caleydo/pathfinder",
-    "branch": "migrate",
-    "additional": [
-      {
-        "name": "pathfinder_ccle",
-        "repo": "Caleydo/pathfinder_ccle",
-        "branch": "migrate"
-      },
-      {
-        "name": "pathfinder_graph",
-        "repo": "Caleydo/pathfinder_graph",
-        "branch": "migrate"
-      }
-    ]
+    "branch": "master"
   },
   {
     "type": "api",
@@ -26,12 +14,12 @@
       {
         "name": "pathfinder_ccle",
         "repo": "Caleydo/pathfinder_ccle",
-        "branch": "migrate"
+        "branch": "master"
       },
       {
         "name": "pathfinder_graph",
         "repo": "Caleydo/pathfinder_graph",
-        "branch": "migrate"
+        "branch": "master"
       }
     ],
     "data": [
