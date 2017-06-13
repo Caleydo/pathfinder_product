@@ -27,6 +27,10 @@
         "type": "url",
         "url": "ccle.h5"
       }
+    ],
+    "backup": [
+      "db_neo4j_dblp.tar.gz",
+	  "db_neo4j_pathways.tar.gz"
     ]
   }
 ]
