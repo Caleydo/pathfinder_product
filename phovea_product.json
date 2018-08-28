@@ -9,7 +9,7 @@
     "type": "api",
     "label": "pathfinder_server",
     "repo": "phovea/phovea_server",
-    "branch": "develop",
+    "branch": "v2.0.0",
     "additional": [
       {
         "name": "pathfinder_ccle",
@@ -30,7 +30,7 @@
     ],
     "backup": [
       "db_neo4j_dblp.tar.gz",
-	  "db_neo4j_pathways.tar.gz"
+	    "db_neo4j_pathways.tar.gz"
     ]
   }
 ]
